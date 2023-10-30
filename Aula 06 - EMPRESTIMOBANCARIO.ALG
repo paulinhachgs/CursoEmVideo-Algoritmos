@@ -1,5 +1,3 @@
-// Exercício: Empréstimo parcelado com juros de 20%
-
 algoritmo "EmprestimoBancario"
 var
    empres, juros, parc, total, parcValor: Real
