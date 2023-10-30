@@ -13,6 +13,5 @@ inicio
     Escreva ("Em quantas parcelas gostaria de pagar? ")
     Leia (parc)
          parcValor <- total / parc
-    EscrevaL ("Total do empréstimo: R$",total, " em", parc, " parcelas de R$", parcValor,".")
-    
+    EscrevaL ("Total do empréstimo: R$",total, " em", parc, " parcelas de R$", parcValor,".")    
 fimalgoritmo
