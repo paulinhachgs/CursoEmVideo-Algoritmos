@@ -1,4 +1,4 @@
-// Empréstimo parcelado com juros de 20%
+// Exercício: Empréstimo parcelado com juros de 20%
 
 algoritmo "EmprestimoBancario"
 var
