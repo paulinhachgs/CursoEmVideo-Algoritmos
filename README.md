@@ -1,4 +1,4 @@
-# CursoEmVideo-Algoritmos
+# Curso em Video - Algoritmos
 
 Status: em desenvolvimento 🔧
 
