@@ -11,7 +11,7 @@ inicio
       Leia (N2)
       M <- (N1 + N2) / 2
       EscrevaL ("-------------------------")
-      EscrevaL ("MÉDIA:",M)
+      EscrevaL ("MÃ‰DIA:",M)
       Se (M >= 7) entao
          EscrevaL ("ALUNO APROVADO")
       FimSe
