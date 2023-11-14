@@ -3,7 +3,7 @@ var
    anoA, anoN, idade: Inteiro
 inicio
    EscrevaL ("--------------------------")
-   EscrevaL (" DEPARTAMENTO DE TRÂNSITO ")
+   EscrevaL (" DEPARTAMENTO DE TRÃ‚NSITO ")
    EscrevaL ("--------------------------")
    Escreva ("Ano Atual (yyyy): ")
    Leia (anoA)
