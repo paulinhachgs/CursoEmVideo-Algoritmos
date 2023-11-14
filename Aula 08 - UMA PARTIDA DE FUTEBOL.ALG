@@ -13,11 +13,11 @@ inicio
    Resul <- B - M
    Dif <- Abs(Resul)
    EscrevaL("-----------------------")
-   EscrevaL("DIFERENÇA:", Dif)
-   Se (Dif = 0) Então
+   EscrevaL("DIFERENÃ‡A:", Dif)
+   Se (Dif = 0) EntÃ£o
       status <- "EMPATE"
    senao
-      Se (Dif < 4) Então
+      Se (Dif < 4) EntÃ£o
          status <- "PARTIDA NORMAL"
       senao
          status <- "GOLEADA"
