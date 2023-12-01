@@ -10,7 +10,8 @@ Exercícios das aulas de Algoritmo do [Curso em  Video](https://www.cursoemvideo
 - [x] Aula 09 (Estrutura de Repetição: Enquanto) - Contador Inteligente / Melhor aluno da turma
 - [x] Aula 10 (Estrutura de Repetição: Repita) - Escolhendo Pessoas / Super Contador
 - [x] Aula 11 (Estrutura de Repetição: Para) - Sequência de Fibonacci / Analisador de Valores
-- [ ] Aula 14
+- [x] Aula 14 (Vetores c/ Rotinas: Procedimentos e Funções - Aulas 12 e 13)) - Torneiro de Futebol / Corrigindo Provas
+- [ ] Aula 15 () -
 
 ```
 Observe que todos exercícios estão em Portugol realizados e aplicados no programa VisualG
