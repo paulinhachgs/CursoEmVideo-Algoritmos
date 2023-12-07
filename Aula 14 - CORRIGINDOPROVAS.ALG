@@ -14,7 +14,7 @@ inicio
    EscrevaL("Passo 1 - Cadastro de Gabarito")
    EscrevaL("-------------------------------")
    Para c <- 1 ate 5 faca
-      Escreva("Questão",c,": ")
+      Escreva("QuestÃ£o",c,": ")
       Leia(gab[c])
    FimPara
 FimProcedimento
@@ -26,7 +26,7 @@ var
 inicio
       TotA <- 0
       Para c <- 1 ate 5 faca
-         Escreva("Questão",c,": ")
+         Escreva("QuestÃ£o",c,": ")
          Leia(res[c])
          Se (res[c] = gab[c]) entao
             TotA <- TotA + 2
@@ -57,5 +57,5 @@ inicio
     
     m <- s / 3
     EscrevaL("----------------------")
-    EscrevaL("Media da Turma:", M:4:1)
+    EscrevaL("MÃ©dia da Turma:", M:4:1)
 fimalgoritmo
