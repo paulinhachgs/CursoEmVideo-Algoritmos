@@ -1,6 +1,6 @@
 # Curso em Video - Algoritmos
 
-Status: em desenvolvimento 🔧
+Status: Concluido ✅
 
 Exercícios das aulas de Algoritmo do [Curso em  Video](https://www.cursoemvideo.com/), realizado por [Gustavo Guanabara](https://www.youtube.com/@CursoemVideo).
 
